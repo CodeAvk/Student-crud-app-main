@@ -1,0 +1,9 @@
+.single_Item:hover{
+  background-color: white;
+ 
+  transition: 0.3s ease-in-out;
+}
+a{
+  color:black;
+}
+ 
